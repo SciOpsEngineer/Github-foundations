@@ -15,7 +15,9 @@ git clone https://github.com/JJDataAnalyst-viz/Github-foundations.git
 
 - 2. Via SSH
 
-
+```ssh
+git clone git@github.com:JJDataAnalyst-viz/Github-foundations.git
+```
 
 # Commits
 
