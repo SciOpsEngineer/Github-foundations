@@ -26,9 +26,36 @@ gh repo clone JJDataAnalyst-viz/Github-foundations
 ```
 # Commits
 
-
+```sh
+git commit -am 'First commit'
+```
 
 # Branches
+
+Create new branch 
+
+```sh
+git switch -c dev_branch
+```
+
 # Remotes
+
+```sh
+git remote add origin https://github.com/JJDataAnalyst-viz/Github-foundations.git
+
+```
+# Push
+``` sh
+git push --set-upstream origin main 
+```
+
+
 # Stashing
+
+Stash before staging branch.
+Then pop or apply stash in the same branch or other
+```sh
+git stash
+
+```
 # Merging
