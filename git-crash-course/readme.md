@@ -19,6 +19,11 @@ git clone https://github.com/JJDataAnalyst-viz/Github-foundations.git
 git clone git@github.com:JJDataAnalyst-viz/Github-foundations.git
 ```
 
+- 3. Via GitHub CLI
+
+```Github CLI
+gh repo clone JJDataAnalyst-viz/Github-foundations
+```
 # Commits
 
 
