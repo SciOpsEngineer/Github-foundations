@@ -55,7 +55,17 @@ git push --set-upstream origin main
 Stash before staging branch.
 Then pop or apply stash in the same branch or other
 ```sh
-git stash
+git stash 
+git stash list 
+git stash save my-name
+git stash apply
+git stash pop
 
 ```
 # Merging
+
+
+```sh
+git checkout dev
+git merge main
+```
