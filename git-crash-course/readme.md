@@ -15,14 +15,20 @@ git clone https://github.com/JJDataAnalyst-viz/Github-foundations.git
 
 - 2. Via SSH
 
-```ssh
+```sh
 git clone git@github.com:JJDataAnalyst-viz/Github-foundations.git
 ```
 
 - 3. Via GitHub CLI
 
-```Github CLI
+```sh
 gh repo clone JJDataAnalyst-viz/Github-foundations
+```
+# Stage area
+
+
+```sh
+git add <file-name>
 ```
 # Commits
 
